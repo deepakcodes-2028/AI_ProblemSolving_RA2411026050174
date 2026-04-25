@@ -2,7 +2,7 @@
 
 > **Course:** Artificial Intelligence | **Team Size:** 2 members
 > **Implemented Problems:** Problem — Map Coloring (CSP)
-> **Language:** Python 3 | **Framework:** Streamlit
+> **Language:** Python 3 | **Framework:** Streamlit|**Development Tool :** VisualStudio Code
 
 ---
 
